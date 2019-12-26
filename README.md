@@ -6,3 +6,9 @@ show how custom the freeswitch application
 and banding the media bug to session
 
 in the bin directory,  i give you the so file, you can use it
+
+
+
+
+
+gcc main.c -lcrypto -lwebsockets -lpthread 
